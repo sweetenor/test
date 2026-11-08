@@ -1,0 +1,2 @@
+# test
+wcue script test
